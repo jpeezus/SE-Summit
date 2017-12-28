@@ -1,1 +1,7 @@
 PAN200MB.zip filter=lfs diff=lfs merge=lfs -text
+PAN10MB.zip filter=lfs diff=lfs merge=lfs -text
+PAN20MB.zip filter=lfs diff=lfs merge=lfs -text
+PAN25MB.zip filter=lfs diff=lfs merge=lfs -text
+PAN300MB.zip filter=lfs diff=lfs merge=lfs -text
+PAN50MB.zip filter=lfs diff=lfs merge=lfs -text
+PAN99MB.zip filter=lfs diff=lfs merge=lfs -text
